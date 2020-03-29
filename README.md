@@ -12,10 +12,10 @@ All scripts can by found inside the folder: *scripts/*
 The Agent Based Model simulations where done using Python and MESA (*https://mesa.readthedocs.io/en/master/*). The following scripts where implemented as part of the MESA framework for the project:
 * **agents.py**: code for the different agents that interact in the model.
 * **model.py**: code for the model.
-* **city_generatos**: code designed to create the different layouts that where needed (random, from raster etc..).
+* **city_generator.py**: code designed to create the different layouts that where needed (random, from raster etc..).
 
 
-We also include the ratsers that were extracted using Google Earth Engine along with the corresponding scripts for the engine, inside the folder: *scripts/*rasters*
+We also include the ratsers that were extracted using Google Earth Engine along with the corresponding scripts for the engine, inside the folder: *scripts/rasters*
 
 ## Experiment Results
 
